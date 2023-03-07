@@ -1,9 +1,8 @@
 # first-repo
 
- ## updating papasara ko sir
+ ## updating
 
 # cloning
 
 # updating from remote
 
-## demo for conflict updates
